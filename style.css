@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    color: #ffffff;
+}
+
+#currency{
+    
+    margin: 300px 0 0 400px;
+}
+
+#text, #btn, #text1, #moneyC{
+    padding: 10px 50px;
+    border-width: 0;
+    cursor: pointer;
+}
+
+
+
+#text1{
+    font-size: 30px;
+}
